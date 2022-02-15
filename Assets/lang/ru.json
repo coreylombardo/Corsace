@@ -1,0 +1,381 @@
+{
+    "flag": "https://osu.ppy.sh/images/flags/GB.png",
+    "login": "ВОЙТИ",
+    "mca_ayim": {
+        "header": {
+            "mca": "MAPPER'S <br> CHOICE <br> AWARDS",
+            "ayim": "A YEAR <br> IN <br> MAPPING",
+            "login": "ВОЙТИ",
+            "welcomeBack": "с возвращением",
+            "admin": "АДМИНИСТРАЦИЯ",
+            "staff": "СТАФФ",
+            "logout": "ВЫЙТИ"
+        },
+        "login": {
+            "login": "войти",
+            "message": {
+                "1": "It seems that you are not logged in!<br>Simply login with osu! and you can start voting/nominating immediately!",
+                "2": "You may login on discord in addition as well after, but it is <b>not required</b> to vote/nominate.<br>Discord login <b>is required</b> for staff members working on MCA/AYIM.</span>"
+            },
+            "authOsu": "нажмите здесь, чтобы аутентифицироваться через osu!",
+            "authOsuComp": "Аутентификация через osu! завершена. Привет ",
+            "authDiscord": "нажмите здесь, чтобы аутентифицироваться через Discord",
+            "authDiscordComp": "Аутентификация через Discord завершена. Привет "
+        }
+    },
+    "ayim": {
+        "main": {
+            "records": "РЕКОРДЫ",
+            "statistics": "СТАТИСТИКА",
+            "search": "искать маппера",
+            "numberof": "кол-во",
+            "numberwith": "кол-во карт с",
+            "message": {
+                "2019": "<p>Hello 2020.</p><p>A Year in Mapping 2019 has returned to bring you the record-breaks of the year, and the detailed statistics amassed as well!</p><p>With this website, we can now add as much information as we can feasibly retrieve for all years! If you have any suggestions (as well as any website bugs), let VINXIS know in the corsace server (link at the bottom left!)</p><p>WE ARE ALSO CROWDFUNDING COMMENTS! That means YOU can write and submit a comment for as many mappers as you want!</p><p>Select your preferred mode with the icons below to get started!</p>",
+                "2020": "<p>Hello 2021... the correct year this time!</p><p>A Year in Mapping 2020 has come to you back to back to bring you the record-breaks of THIS year, and the detailed statistics amassed as well!</p><p>Comments are closed off for 2020. Hopefully we will be able to bring them back in the future! In the meantime, check out all the records and stats!</p>"
+            }
+        },
+        "mapsets": {
+            "name": "МАПСЕТЫ",
+            "playcount": "ПЛЕЙКАУНТА",
+            "favourites": "FAVOURITES",
+            "favouritesExclHybrid": "FAVOURITES (EXCL. HYBRIDS)",
+            "length": "ДЛИНА",
+            "difficulties": "СЛОЖНОСТЕЙ",
+            "playTime": "LENGTH (SUM OF ALL DIFFICULTIES)",
+            "totalRanked": "ВСЕГО РАНКНУТЫХ",
+            "totalDiff": "ВСЕГО СЛОЖНОСТЕЙ",
+            "submitDates": "SUBMIT DATES",
+            "starRatings": "STAR RATINGS",
+            "approachRate": "APPROACH RATE",
+            "overallDifficulty": "OVERALL DIFFICULTY",
+            "hpDrain": "HP DRAIN",
+            "circleSize": "CIRCLE SIZE",
+            "spinners": "СПИННЕРОВ",
+            "sliders": "СЛАЙДЕРОВ",
+            "circles": "CIRCLES",
+            "avgSpinnersPerDiff": "AVG SPINNERS PER DIFF",
+            "avgSlidersPerDiff": "AVG SLIDERS PER DIFF",
+            "avgCirclesPerDiff": "AVG CIRCLES PER DIFF",
+            "highestSr": "HIGHEST STAR RATING",
+            "lowestSr": "LOWEST STAR RATING"
+        },
+        "mappers": {
+            "name": "МАППЕРЫ",
+            "mostRanked": "MOST RANKED",
+            "mostDiffs": "MOST DIFFICULTIES",
+            "mostFavs": "MOST FAVOURITES",
+            "mostFavsExclHybrid": "MOST FAVOURITES (EXCL. HYBRIDS)",
+            "mostPlayed": "MOST PLAYED",
+            "totalMappers": "TOTAL MAPPERS",
+            "newMapperAges": "NEW MAPPER AGES",
+            "mapperAges": "MAPPER AGES",
+            "mapsPerMapperAges": "MAPS PER MAPPER PER AGE",
+            "bng": "BNG",
+            "nat": "NAT",
+            "uniqueMappers": "TOTAL MAPPERS",
+            "newMappers": "NEW MAPPERS",
+            "highestAvgSr": "HIGHEST AVG SR",
+            "lowestAvgSr": "LOWEST AVG SR",
+            "mappers": "MAPPERS"
+        },
+        "statistics": {
+            "numberOf": "number of",
+            "numberOfMapsWith": "number of maps with",
+            "average": "average"
+        },
+        "comments": {
+            "name": "КОММЕНТАРИИ",
+            "info": "All comments become public after this MCA's results are out! You can submit your own comments until then.",
+            "search": "искать маппера",
+            "viewSubmit": "просматривать/отправлять комментарии",
+            "writeHere": "Write a new comment for this mapper here!",
+            "update": "Обновить",
+            "remove": "Удалить",
+            "create": "Создать",
+            "login": "Войдите чтобы оставить комментарий!",
+            "visible": "(пока не видно)",
+            "notice": "Hello! This may be the first time you have navigated to (one of) the comments page! <br> Please note that comments are crowdfunded! <br> Anyone (including you) can write comments for anyone until this year's MCA is done! <br> Write about what they did or their achievements in [YEAR] to show appreciation to the mappers participating in the community!"
+        }
+    },
+    "mca": {
+        "main": {
+            "voting": "voting",
+            "nominating": "nominating",
+            "preparation": "preparation",
+            "results": "results",
+            "undefined": "",
+            "mapsetsLabel": "MAPSETS",
+            "mappersLabel": "MAPPERS",
+            "commentsLabel": "COMMENTS",
+            "recordsLabel": "RECORDS",
+            "statisticsLabel": "STATISTICS",
+            "stage": {
+                "voting": "voting stage",
+                "nominating": "nomination stage",
+                "undefined": ""
+            },
+            "rankedSets": "РАНКНУТЫХ МАПСЕТОВ",
+            "nominateNow": "номинировать сейчас !",
+            "voteNow": "голосовать сейчас !",
+            "viewResults": "просмотреть результаты !",
+            "daysLeft": "осталось дней",
+            "message": {
+                "2019": "<p>Mapper's Choice Awards is back for round 4 in 2019! This is a voting event where all mappers/modders can nominate and vote what they think is the best map/mapper for each category!</p><p>Our intention is to give a new perspective on the best maps of 2019 through the eyes of the mapping community!</p><p>This year, we have gone full-on with a website so that we can make it as easy as possible for eligible voters to nominate and vote now!</p><p>All osu! supporter prizes are provided by the osu! staff directly. 2 months of supporter for winners of each category, and 6 months for winners of the Grand Awards!</p><p>We hope as many participants as possible take part in this event! Let VINXIS know in the corsace discord server for any bugs or issues with the website!</p>",
+                "2020": "<p>Back to back, mapper's choice awards is again to finish it off at round 5 with 2020! This is a voting event where all mappers/modders can nominate and vote what they think is the best map/mapper for each category!</p><p>Our intention is to give a new perspective on the best maps of 2020 through the eyes of the mapping community!</p><p>We've made many changes and hopefully dealt with all the bugs that were found throughout MCA 2019 as well as changing categories as needed so this one should be far smoother!</p><p>All osu! supporter prizes are provided by the osu! staff directly. 2 months of supporter for winners of each category, and 6 months for winners of the Grand Awards!</p><p>We hope as many participants as possible take part in this event!</p>"
+            },
+            "categories": {
+                "map": "map categories",
+                "user": "user categories"
+            },
+            "organized": "ORGANIZED BY"
+        },
+        "categories": {
+            "grandAward": {
+                "name": "Высшая Награда",
+                "description": "The best of the best."
+            },
+            "grandStoryboard": {
+                "name": "Высший Сториборд",
+                "description": "The best storyboard out there."
+            },
+            "grandStoryboarder": {
+                "name": "Высший Сторибордер",
+                "description": "The best storyboarder out there."
+            },
+            "marathon": {
+                "name": "Марафон",
+                "description": "The best beatmap with 5+ minute drain time."
+            },
+            "hitsounding": {
+                "name": "Хитсаундинг",
+                "description": "The best bells and whistles out there."
+            },
+            "collab": {
+                "name": "Коллаборация",
+                "description": "The best beatmap with 2+ mappers creating the top difficulty."
+            },
+            "simple": {
+                "name": "Легкая",
+                "description": "The best beatmap with the top difficulty lower than an insane."
+            },
+            "highBPM": {
+                "name": "Выского BPM",
+                "description": "The best beatmap with atypically fast streaming or high singletap strain."
+            },
+            "smallCircles": {
+                "name": "Маленькие кружки",
+                "description": "The best beatmap with the top difficulty using circle size 5 or smaller."
+            },
+            "heavy13": {
+                "name": "1/3 Heavy",
+                "description": "The best beatmap with top difficulties using lots of purple ticks."
+            },
+            "throwback": {
+                "name": "Throwback",
+                "description": "The best beatmap with a style of the old."
+            },
+            "mapper": {
+                "name": "Маппер",
+                "description": "The one who created the best beatmaps."
+            },
+            "modder": {
+                "name": "Моддер",
+                "description": "The one who created the best mods."
+            },
+            "hitsounder": {
+                "name": "Хитсаундер",
+                "description": "The one who created the best hitsounds."
+            },
+            "mostPromising": {
+                "name": "Most Promising",
+                "description": "The best mapper who ranked their first set this year."
+            },
+            "mostInfluential": {
+                "name": "Most Influential",
+                "description": "The one who inspired and influenced other mappers the most."
+            },
+            "outCont": {
+                "name": "Outstanding Contribution",
+                "description": "The one who positively contributed to the health of osu! the most."
+            },
+            "spread": {
+                "name": "Спред",
+                "description": "The set with the best spread of difficulties."
+            },
+            "experimental": {
+                "name": "Experimental",
+                "description": "The best \"tech\" / off meta beatmap."
+            },
+            "stream": {
+                "name": "Стримы",
+                "description": "The beatmap with the best continuous streams."
+            },
+            "highBPMTaiko": {
+                "name": "Высокого BPM",
+                "description": "The best beatmap with over 240 BPM."
+            },
+            "lowBPMTaiko": {
+                "name": "Низкого BPM",
+                "description": "The best beatmap with under 140 BPM."
+            },
+            "simplistic": {
+                "name": "Простая",
+                "description": "The best cleanest beatmap out there."
+            },
+            "sliderVelocity": {
+                "name": "Slider Velocity",
+                "description": "The best beatmap with an intense usage of slider velocities."
+            },
+            "featuredArtist": {
+                "name": "Featured Artist",
+                "description": "The best beatmap for a featured artist song."
+            },
+            "longNotes": {
+                "name": "Long Notes",
+                "description": "The best beatmap with an intense usage of LNs."
+            },
+            "antiMeta": {
+                "name": "Анти-мета",
+                "description": "The best beatmap based around 5K/6K/8K/9K."
+            },
+            "7K": {
+                "name": "7K Specific",
+                "description": "The best beatmap based around 7K."
+            },
+            "technical": {
+                "name": "Technical",
+                "description": "The best storyboard in its technical capabilities."
+            },
+            "gameplay": {
+                "name": "Геймплей",
+                "description": "The best storyboard in utilizing gameplay elements."
+            },
+            "minimalistic": {
+                "name": "Minimalistic",
+                "description": "The best storyboard in saying a lot with very little."
+            },
+            "narrative": {
+                "name": "Narrative",
+                "description": "The best storyboard in telling a great story."
+            },
+            "technicalTaiko": {
+                "name": "Technical",
+                "description": "The best beatmap rich in complex patterning and snap combinations."
+            },
+            "fastTaiko": {
+                "name": "Быстрая",
+                "description": "The best beatmap with fast tapping and high SV."
+            },
+            "slowTaiko": {
+                "name": "Медленная",
+                "description": "The best beatmap with slow tapping and low SV."
+            },
+            "hybrid": {
+                "name": "Hybrid",
+                "description": "The best beatmap which showcases substantial amounts of both LN and rice patterning."
+            },
+            "highBPMAlternator": {
+                "name": "High BPM / Alternator",
+                "description": "The best beatmap with priority on extremely fast tapping and / or aim skills."
+            },
+            "vanilla": {
+                "name": "Ванилла",
+                "description": "The best beatmap utilizing simple mapping techniques to great effect."
+            },
+            "complex": {
+                "name": "Complex Rhythm / Swing",
+                "description": "The best beatmap with extensive usage of uncommon snappings, including doubles, 1/3, 1/5, 1/7, and more."
+            },
+            "unorthodox": {
+                "name": "Unorthodox / Gimmick",
+                "description": "The best beatmap showcasing mapping techniques or ideas that are not frequently seen."
+            },
+            "sliderTech": {
+                "name": "Slider Tech",
+                "description": "The best beatmap featuring technical elements, intricate slider design and velocity usage, and complex stream patterns."
+            },
+            "mostInspiring": {
+                "name": "Most Inspiring",
+                "description": "The one who influenced and provided inspiration to others the most."
+            },
+            "communityPillar": {
+                "name": "Community Pillar",
+                "description": "The best user in providing outstanding contribution to the community behind-the-scenes."
+            },
+            "simplisticTaiko": {
+                "name": "Простая",
+                "description": "The best beatmap in using simple patterning and rhythm."
+            },
+            "technicalCatch": {
+                "name": "Technical",
+                "description": "The best beatmap which utilizes concepts that push the boundaries of catch gameplay."
+            },
+            "antiMetaCatch": {
+                "name": "Anti-Meta",
+                "description": "The best beatmap at using unconventional / gimmicky patterning."
+            }
+        },
+        "nom_vote": {
+            "search": "search for a beatmap / user",
+            "select": "Please select a category!",
+            "candidates": "candidates",
+            "options": {
+                "date": "ДАТА",
+                "artist": "ИСПОЛ.",
+                "title": "НАЗВАНИЕ",
+                "favs": "ФАВОВ",
+                "creator": "СОЗДАТЕЛЬ",
+                "sr": "SR",
+                "id": "ID",
+                "alph": "ALPH",
+                "asc": "ASC",
+                "desc": "DESC",
+                "voteOrder": "VOTE ORDER",
+                "valid": "VALID",
+                "invalid": "INVALID",
+                "both": "BOTH",
+                "all": "ALL",
+                "played": "PLAYED",
+                "results": "РЕЗУЛЬТАТЫ",
+                "voters": "ПРОГОЛОСОВАВШИЕ"
+            },
+            "votingOverlay": "Hello! this may be the first time you have navigated to the voting page! <br> MCA Voting utilizes <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/IRV_counting_flowchart.svg/300px-IRV_counting_flowchart.svg.png'>ranked choice voting!</a> <br> This means you can select any number of beatmaps/users to vote for! <br> All votes are ordered by choice, so <span class='notice-modal--bold'>the first choice will have the highest priority!</span> <br> Your first choice will count until it loses the race. Then your second, then your third, then 4th, e.t.c. <br> Good luck and can't wait to see the results for MCA [YEAR]",
+            "hosted": "HOSTED BY",
+            "userID": "ID ПОЛЬЗОВАТЕЛЯ"
+        },
+        "results": {
+            "headings": {
+                "placement": "PLACE",
+                "map": "MAP",
+                "title": "TITLE",
+                "artist": "ARTIST",
+                "hoster": "HOST",
+                "username": "USER",
+                "firstChoice": "1ST CHOICES",
+                "secondThirdChoice": "2ND-3RD CHOICES",
+                "restChoice": "4TH+ CHOICES"
+            },
+            "resultsOverlay": "Hello! This is possibly the first time you have navigated to the results page! <br> These results show the final placements of the beatmaps/users using <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/IRV_counting_flowchart.svg/300px-IRV_counting_flowchart.svg.png'>ranked choice voting,</a> alongside the amount of times the beatmap/user was a first choice, and the total number of appearances!<br> Hopefully these results for MCA [YEAR] are to your liking! Can't wait to see you all for next MCA!"
+        }
+    },
+    "main": {
+        "header": {
+            "login": "LOG IN",
+            "register": "REGISTER",
+            "changeDiscord": "CHANGE DISCORD"
+        },
+        "construction": {
+            "underConstruction": "under construction",
+            "sorry": "sorry for the inconvenience",
+            "development": "the corsace website is still in early development",
+            "theTeam": "the corsace team"
+        },
+        "merch": {
+            "official": "official corsace merchandise",
+            "avail": "now available",
+            "name": "Corsace Open 2021 Limited Edition Unisex T",
+            "colours": "Black/White"
+        }
+    }
+}
